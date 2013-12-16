@@ -1,4 +1,4 @@
-Enter file contents herepackage nl.retronet.tuts
+package nl.retronet.tuts
 
 import javax.swing.*;
 import java.awt.*;
